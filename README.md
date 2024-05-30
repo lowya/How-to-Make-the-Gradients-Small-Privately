@@ -1,5 +1,6 @@
 # How-to-Make-the-Gradients-Small-Privately
 Code for the experiments in "How to Make the Gradients Small Privately: Improved Rates for Differentially Private Non-Convex Optimization," (ICML 2024) by Andrew Lowy, Jonathan Ullman, and Stephen J. Wright. 
+arXiv: https://arxiv.org/abs/2402.11173
 
 To (approximately) reproduce the experiments in the paper, follow these steps:
   1. Hyperparameter tuning: either use the hyperparameters in Appendix G of the paper or set "Tune == True" and "do_experiments == False" in the script to conduct tuning.
